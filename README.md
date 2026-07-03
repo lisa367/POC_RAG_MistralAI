@@ -1,4 +1,4 @@
-# Assistant virtuel pour la recommendation d'évènements culturel
+# Assistant virtuel pour la recommendation d'évènements culturels
 
 Ce projet implémente un chatbot capable de recommander des événements en région parisienne pour le compte de l'entreprise Plus-Envents. 
 Cela est rendu possible grace à l'intégration de données contextuelles provenant d'Openagenda à un modèle IA. 
