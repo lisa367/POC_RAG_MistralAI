@@ -1,6 +1,6 @@
 # Assistant virtuel pour la recommendation d'évènements culturels
 
-Ce projet implémente un chatbot capable de recommander des événements en région parisienne pour le compte de l'entreprise Plus-Envents. 
+Ce projet implémente un chatbot capable de recommander des événements en région parisienne pour le compte de l'entreprise Plus-Events. 
 Cela est rendu possible grace à l'intégration de données contextuelles provenant d'Openagenda à un modèle IA. 
 Le chatbot utilise les techonologies :
    - LangChain (gestion open source des llm)
@@ -30,7 +30,7 @@ Avant d'exécuter les scripts, assurez-vous :
 
 - d'avoir généré une clé d'API MistralAI
 - d'avoir Python 3 d'installé sur votre machine
-- d'avoir créé un fichier .env dans lequel vous sauvegarderez votre clé d'API de la manière suivante : <br > MISTRAL_API_KEY="votre-clé-api"
+- d'avoir créé un fichier .env dans lequel vous sauvegarderez votre clé d'API de la manière suivante : <br > MISTRAL_API_KEY=<votre-clé-api>
 
 ## Installation des dépendances
 
